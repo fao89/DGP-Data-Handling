@@ -5,6 +5,6 @@ Depois de extrair os dados do [DGP](http://dgp.cnpq.br/dgp/faces/consulta/consul
 
 ## Observações
 
-* Para visualizar a análise [Clique aqui](https://github.com/fabricio-aguiar/DGP-Data-Handling/blob/master/Visualiza%C3%A7%C3%A3o/Analise_DGP.html)
+* Para visualizar a análise [Clique aqui](http://htmlpreview.github.io/?https://github.com/fabricio-aguiar/DGP-Data-Handling/blob/master/Visualiza%C3%A7%C3%A3o/Analise_DGP.html)
 * RJ-CNPQ-DGP.svg é um SVG em branco do estado do RJ, com as divisões de municípios e mesorregiões.
 * RJ_Grupos.svg é o SVG gerado pela análise, que mostra o número de grupos por município.
